@@ -1,0 +1,35 @@
+.azul{
+    background-color: blue;
+    padding: 50px;
+    width: 360px;
+}
+
+.amarelo{
+    background-color: yellow;
+    padding: 50px;
+    margin: 10px;
+}
+.flex{
+    display: flex;
+}
+
+.amarela{
+    padding-left: 120px;
+}
+
+.amarelo1{
+    padding-top: 120px;
+}
+
+.amarelo2{
+    background-color: yellow;
+    padding-right: 220px;
+    margin: 10px;
+}
+
+.amarelo3{
+    background-color: yellow;
+    padding: 50px;
+    margin: 10px;
+    margin-bottom: 20px;
+}
